@@ -8,16 +8,14 @@ About Calculator: Our calculator prompts the user for two float numbers. We decl
 The program then prints each of the calculations in the format of "Sum:" followed by std::endl to print the result of the calculation on a new line. We conclude with return 0; which indicates successful execution of our program.
 
 Algorithm:
-Start
-Display a welcome message: "Hello, World!"
-Declare variables:
-n, m: to store the input numbers (float)
-sum, sub, div, mul: to store the results of arithmetic operations
-Prompt the user to enter the first number
-Read and store the value in variable n
-Prompt the user to enter the second number
-Read and store the value in variable m
-Compute the results
-Display the results of all operations:
-END
+Step- 1: Start
+Step- 2: Display a welcome message: "Hello, World!"
+Step- 3: Declare variables: n, m: to store the input numbers (float) sum, sub, div, mul: to store the results of arithmetic operations
+Step- 4: Prompt the user to enter the first number
+Step- 5: Read and store the value in variable n
+Step- 6: Prompt the user to enter the second number
+Step- 7: Read and store the value in variable m
+Step- 8: Compute the results
+Step- 9: Display the results of all operations:
+Step- 10: END
 Conclusion: This Program will help in understaing of basic input and output, diffrent arithmetic operation in C++ and will give short idea on how we can built programs in C++.

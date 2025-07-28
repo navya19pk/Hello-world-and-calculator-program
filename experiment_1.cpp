@@ -1,10 +1,14 @@
+// Navya Pawan Khajuria
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 
 int main() {
     cout << "Hello, World! \n";
     float n, m, sum, sub, div, mul;
-    cout << "Enter first numbers: ";
+    cout << "Enter first number: ";
     cin >> n;
     cout << "Enter second number: ";
     cin >> m;
@@ -19,3 +23,13 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Hello, World! 
+//Enter first numbers: 2
+//Enter second number: 5
+//Addition of both numbers : 7
+//Subtraction of both numbers : -3
+//Division of both numbers : 0.4
+//Multiplication of both numbers : 10
+
